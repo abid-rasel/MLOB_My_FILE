@@ -1,0 +1,12 @@
+Alice,92
+Bob,78
+Charlie,85
+Diana,94
+Eve,invalid
+Frank,87
+Grace
+Henry,91
+Ivy,76
+Jack,88
+95
+Abid,102

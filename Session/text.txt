@@ -1,0 +1,2 @@
+Machine learning is fun. Machine learning allows computers to learn from data. 
+Learning is powerful when data is large and machine learning is applied properly.
